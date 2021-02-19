@@ -1,0 +1,17 @@
+* List file that shows different media types. See "list file vides on flash 
+* drive.txt" for a more detailed description and explanation of options.
+-10	  +AudioTest.txt
+-10     !Testurl.txt
+-2100     Stevie Ray Vaughan Tribute.mp4
+-250      Raffi on Broadway.mp4
+-1100     Littlefeat.mp4
+-40       Eagles Hell Freezes Over.mp4
+-2000    Talking Heads.mp4
+-2100    Bruce Springsteen Anthology.mp4
+*-1500   Bruce Springsteen HBO Disk1.mp4  
+-600     @Dave Matthews Listener Supported.mp4
+-600      Cat Stevens Majikat.mp4
+-1900     Garth Brooks NYC.mp4
+-1000     Sheryl Crow Rockin The Globe.mp4
+-10      Keith Jarrett Trio1996.mp4
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1611101785 source:/home/pi/Cpp/PlayVideo/main.cpp
+	"ExecuteCommand.cpp"
+	"ListManager.h"
+	"PlayVideo.h"
+	<errno.h>
+	<iostream>
+	<linux/reboot.h>
+	<signal.h>
+	<stdlib.h>
+	<sys/wait.h>
+	<time.h>
+	<unistd.h>
+	<wiringPi.h>
+
+1611101785 /home/pi/Cpp/PlayVideo/PlayVideo.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<wiringPi.h>
+	<sstream>
+	<sys/types.h>
+	<signal.h>
+	"ListManager.h"
+	"ExecuteCommand.cpp"
+
+1611359147 /home/pi/Cpp/PlayVideo/ListManager.h
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<iostream>
+	<fstream>
+	<string>
+	<wiringPi.h>
+
+1611358954 source:/home/pi/Cpp/PlayVideo/ListManager.cpp
+	"ListManager.h"
+	<cctype>
+	<algorithm>
+
+1611699848 source:/home/pi/Cpp/PlayVideo/PlayVideo.cpp
+	<sys/types.h>
+	<signal.h>
+	"PlayVideo.h"
+
+1611101785 /home/pi/Cpp/PlayVideo/ExecuteCommand.cpp
+	<iostream>
+	<stdexcept>
+	<stdio.h>
+	<string>
+

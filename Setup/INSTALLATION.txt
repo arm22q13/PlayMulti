@@ -1,0 +1,20 @@
+Installation
+Start with a working and updated version of Raspberry Pi OS. This install was tested
+using Buster.
+
+The installation script (Setup.sh) assumes a working Internet connection. Check the
+connection before starting the installation. You probably want to make sure your system
+is up to date:
+>sudo apt update
+>sudo apt upgrade
+
+Copy the folder Setup to any reasonable location on your Raspberry system
+(/home/pi/ is recommended). Change the permissions of Setup.sh to executable. 
+Then execute Setup.sh.
+
+Example (Assume the setup folder is on a USB drive called USB1)
+>cp /media/pi/USB1/Setup /home/pi
+>chmod u+x /home/pi/Setup/Setup.sh
+>/home/pi/Setup/Setup.sh
+
+Reboot after the installation. 

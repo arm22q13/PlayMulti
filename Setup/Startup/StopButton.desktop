@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Exec=lxterminal -e /home/pi/CheckStopButton.sh &&
+Name[en_US]=StopButton.desktop

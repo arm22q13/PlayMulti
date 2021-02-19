@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Exec=lxterminal -e /home/pi/StartVideos.sh &
+Name[en_US]=AutoStart.desktop
